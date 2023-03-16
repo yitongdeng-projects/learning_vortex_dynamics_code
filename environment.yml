@@ -1,0 +1,14 @@
+name: vortex_env
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+dependencies:
+  - pytorch=1.13.1
+  - torchvision=0.14.1
+  - cudatoolkit=11.7
+  - pip:
+    - configargparse==1.5.3
+    - imageio
+    - matplotlib

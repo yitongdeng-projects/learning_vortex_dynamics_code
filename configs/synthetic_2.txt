@@ -1,0 +1,6 @@
+--data_name synthetic_2 
+--seen_ratio 0.3333 
+--exp_name exp_synthetic_2
+--num_train = 16000
+--vort_scale = 0.33
+--init_vort_dist = 1.0

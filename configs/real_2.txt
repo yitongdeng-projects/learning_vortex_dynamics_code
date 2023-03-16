@@ -1,0 +1,6 @@
+--data_name real_2
+--seen_ratio 0.6666 
+--exp_name exp_real_2
+--num_train = 4000
+--vort_scale = 0.5
+--init_vort_dist = 0.7
